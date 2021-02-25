@@ -1,1 +1,1 @@
-start /d "C:\Users\hulk\Desktop\Camp\macro" a.exe
+start /d %CD% a.exe
